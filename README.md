@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/cloudfoundry-incubator/cf-test-helpers.svg)](https://travis-ci.org/cloudfoundry-incubator/cf-test-helpers)
+[![Build Status](https://travis-ci.org/mhansonp/cf-test-helpers.svg)](https://travis-ci.org/mhansonp/cf-test-helpers)
 cf-test-helpers
 ===============
 

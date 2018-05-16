@@ -6,9 +6,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/cloudfoundry-incubator/cf-test-helpers/commandstarter"
-	"github.com/cloudfoundry-incubator/cf-test-helpers/internal"
-	workflowhelpersinternal "github.com/cloudfoundry-incubator/cf-test-helpers/workflowhelpers/internal"
+	"github.com/mhansonp/cf-test-helpers/commandstarter"
+	"github.com/mhansonp/cf-test-helpers/internal"
+	workflowhelpersinternal "github.com/mhansonp/cf-test-helpers/workflowhelpers/internal"
 	ginkgoconfig "github.com/onsi/ginkgo/config"
 	. "github.com/onsi/gomega"
 	"github.com/onsi/gomega/gbytes"

@@ -1,8 +1,8 @@
 package helpersinternal
 
 import (
-	"github.com/cloudfoundry-incubator/cf-test-helpers/commandreporter"
-	"github.com/cloudfoundry-incubator/cf-test-helpers/internal"
+	"github.com/mhansonp/cf-test-helpers/commandreporter"
+	"github.com/mhansonp/cf-test-helpers/internal"
 	"github.com/onsi/gomega/gexec"
 )
 

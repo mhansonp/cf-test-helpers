@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/cloudfoundry-incubator/cf-test-helpers/helpers/internal"
-	"github.com/cloudfoundry-incubator/cf-test-helpers/internal/fakes"
+	"github.com/mhansonp/cf-test-helpers/helpers/internal"
+	"github.com/mhansonp/cf-test-helpers/internal/fakes"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

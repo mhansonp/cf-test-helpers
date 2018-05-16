@@ -5,15 +5,15 @@ import (
 	"os"
 	"time"
 
-	"github.com/cloudfoundry-incubator/cf-test-helpers/config"
-	"github.com/cloudfoundry-incubator/cf-test-helpers/workflowhelpers/internal"
+	"github.com/mhansonp/cf-test-helpers/config"
+	"github.com/mhansonp/cf-test-helpers/workflowhelpers/internal"
 
 	. "github.com/onsi/ginkgo"
 	ginkgoconfig "github.com/onsi/ginkgo/config"
 	. "github.com/onsi/gomega"
 
-	"github.com/cloudfoundry-incubator/cf-test-helpers/internal/fakes"
-	"github.com/cloudfoundry-incubator/cf-test-helpers/workflowhelpers"
+	"github.com/mhansonp/cf-test-helpers/internal/fakes"
+	"github.com/mhansonp/cf-test-helpers/workflowhelpers"
 )
 
 var _ = Describe("UserContext", func() {
